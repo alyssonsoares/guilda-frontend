@@ -9,5 +9,5 @@ Guilda de Frontend da dti é um grupo formado para disseminar o conhecimento de 
 >* **Local:** Copa.
 
 ## Informações Utéis
-
+* [Guia Desenvolvimento Web](https://github.com/dtidigitalcrafters/guilda-frontend/wiki/Desenvolvimento-Web:-da--head--aos--footer-s)
 * [OKRs](https://github.com/dtidigitalcrafters/guilda-frontend/wiki/OKRs)
