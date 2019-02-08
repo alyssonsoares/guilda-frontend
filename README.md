@@ -1,6 +1,10 @@
 # Guilda Frontend
 
-**Próximo Encontro =** *Acessibilidade Web -> Chagas (15/02)*
+## Próximo Encontro 
+  - *Acessibilidade Web -> Chagas (15/02)*
+
+## Últimos Encontros
+  - *Frontend roadmap em 2019 -> Jota e Alysson (08/02)*
 
 Guilda de Frontend da dti é um grupo formado para disseminar o conhecimento de frontend na empresa.
 
